@@ -1,0 +1,26 @@
+[mysql_config]
+hostname = localhost
+port = 3306
+username = root
+password = Password
+database = datalearn
+
+[postgresql_config]
+hostname = localhost
+port = 5432
+username = postgres
+password =Password
+database = datalearn
+
+[aws_boto_credentials]
+access_key = your access_key
+secret_key = your secret_key
+bucket_name = your bucket_name
+account_id = your account_id
+
+[mongodb_config]
+hostname = your mongodb hostname
+username = testuser
+password = Password
+database = your database
+collection = your collection
